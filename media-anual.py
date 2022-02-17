@@ -1,7 +1,5 @@
 print('Média bimestral')
 
-while (media>0):
-
 nota1 = float(input('Digite a nota da avaliação 1:'))
 nota2 = float(input('Digite a nota da avaliação 2:'))
 nota3 = float(input('Digite a nota da avaliação 3:'))
