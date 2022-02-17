@@ -1,7 +1,7 @@
 valor_da_hora = float(input('Quanto recebe por hora?'))
 hora_por_mes = float(input('Quantas horas trabalha no mes?'))
-#salario brutro
-salario_bruto = (valor_da_hora+hora_por_mes)*30
+#salario bruto
+salario_bruto = (valor_da_hora*hora_por_mes)
 
 print('O seu salario é:', salario_bruto)
 
