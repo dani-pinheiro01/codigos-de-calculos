@@ -1,4 +1,4 @@
-sexo = input('Qual seu sexo? Masculino(M) ou Feminino(F):')
+sexo = input('Qual seu sexo? Masculino(1) ou Feminino(2):')
 altura = input('Qual sua altura?')
 
 peso_ideal_M = (72.7*float(altura))-58
